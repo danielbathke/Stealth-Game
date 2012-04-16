@@ -1,0 +1,32 @@
+Logfile initialized
+[INFO] logfile = /home/daniel/Titanium Studio Workspace/Stealth Game/build.log
+[DEBUG] /home/daniel/.titanium/mobilesdk/linux/1.8.2/android/builder.py simulator Stealth Game /opt/android-sdk-linux.old /home/daniel/Titanium Studio Workspace/Stealth Game br.com.videosoft.stealthgame 4 WVGA854 
+[INFO] Building Stealth Game for Android ... one moment
+[INFO] Titanium SDK version: 1.8.2 (02/23/12 17:46 59b3a90)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 2 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.006979 seconds on emulator to get ready
+[DEBUG] br.com.videosoft.stealthgame installed? True
+[INFO] Fastdev server running, deploying in Fastdev mode
+[INFO] Copying project resources..
+[TRACE] COPYING MODIFIED FILE: /home/daniel/Titanium Studio Workspace/Stealth Game/Resources/ui/MainView.js => /home/daniel/Titanium Studio Workspace/Stealth Game/build/android/bin/assets/Resources/ui/MainView.js
+[INFO] Tiapp.xml unchanged, skipping class generation
+[DEBUG] Processing Android resource drawables
+[DEBUG] found drawable-long-land-hdpi splash screen at /home/daniel/Titanium Studio Workspace/Stealth Game/Resources/android/images/res-long-land-hdpi/default.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at /home/daniel/Titanium Studio Workspace/Stealth Game/Resources/android/images/res-notlong-land-mdpi/default.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at /home/daniel/Titanium Studio Workspace/Stealth Game/Resources/android/images/res-notlong-port-mdpi/default.png
+[DEBUG] found drawable-long-land-ldpi splash screen at /home/daniel/Titanium Studio Workspace/Stealth Game/Resources/android/images/res-long-land-ldpi/default.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at /home/daniel/Titanium Studio Workspace/Stealth Game/Resources/android/images/res-notlong-port-hdpi/default.png
+[DEBUG] found drawable-notlong-land-hdpi splash screen at /home/daniel/Titanium Studio Workspace/Stealth Game/Resources/android/images/res-notlong-land-hdpi/default.png
+[DEBUG] found drawable-long-port-hdpi splash screen at /home/daniel/Titanium Studio Workspace/Stealth Game/Resources/android/images/res-long-port-hdpi/default.png
+[DEBUG] found drawable-notlong-land-ldpi splash screen at /home/daniel/Titanium Studio Workspace/Stealth Game/Resources/android/images/res-notlong-land-ldpi/default.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at /home/daniel/Titanium Studio Workspace/Stealth Game/Resources/android/images/res-notlong-port-ldpi/default.png
+[DEBUG] found drawable-long-port-ldpi splash screen at /home/daniel/Titanium Studio Workspace/Stealth Game/Resources/android/images/res-long-port-ldpi/default.png
+[INFO] Waiting for SDCard to become available..
+[INFO] Re-launching application ... Stealth Game
+[INFO] Launching application ... Stealth Game
+[TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=br.com.videosoft.stealthgame/.StealthGameActivity }
+Warning: Activity not started, its current task has been brought to the front
+
+[INFO] Android Emulator has exited
